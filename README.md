@@ -1,2 +1,2 @@
-# JoinUs_MyIOS
-自己简化版论坛！
+# JoinUsIOS
+IOS client for Join Us project
